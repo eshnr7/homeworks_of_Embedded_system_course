@@ -1,2 +1,2 @@
-# homeworks_of_Embedded_system_course
+# homework_of_Embedded_system_course
 
